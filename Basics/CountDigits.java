@@ -1,6 +1,10 @@
 /*
 Problem 1 : Count Digits.
 Platform : Online Compiler
+
+Complexity Analysis
+● Time Complexity: O(log₁₀ n), number of digits
+● Space Complexity: O(1)
 */
 
 import java.util.*;
