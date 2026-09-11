@@ -1,6 +1,10 @@
 /*
-Simple problem to start or get the idea about recursion
-print the name recursively till it reaches the base case
+Problem 1:Simple problem to start or get the idea about recursion . print the name recursively till it reaches the base case
+Platform:Online Compiler
+
+Complexity Analysis
+● Time Complexity: O(N)
+● Space Complexity: O(N)
 */
 
 import java.util.*;
