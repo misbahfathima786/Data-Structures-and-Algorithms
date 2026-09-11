@@ -7,6 +7,8 @@ Complexity Analysis
 ● Space Complexity: O(N)
 */
 
+//using forward recursion
+
 public class Recursion {
     public static int printNumber(int N, int count) {
       if(count>N) return 0; // base condition
