@@ -1,5 +1,5 @@
 /*
-Problem 1:Bubble Sort.
+Problem 2:Bubble Sort.
 Platform:Online Compiler.
 
 Complexity Analysis
@@ -8,7 +8,7 @@ Complexity Analysis
 
 */
 
-public class SelectionSort {
+public class BubbleSort {
     public static void main(String[] args) {
       int [] arr = {5,1,2,4,6,3};
       int n = arr.length;
