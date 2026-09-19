@@ -20,7 +20,7 @@ public class Main {
 
             if (arr1[i] == arr2[j]) {
 
-                if (union.isEmpty() || union.get(union.size() - 1) != arr1[i]) {
+                if (union.isEmpty() || union.get(union.size() - 1) != arr1[i]) { // if duplicate is there , remove it , by comparing previous element present in union list.
                     union.add(arr1[i]);
                 }
 
